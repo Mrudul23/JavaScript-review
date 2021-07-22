@@ -1,7 +1,7 @@
 # JavaScript Review
 
-To view a better version of the review (PowerPoint presentation):
-► Open the Javascript review file and click view raw 
+To view a better version of the review (PowerPoint presentation):<br><br>
+► Open the Javascript review file and click view raw <br>
 ► This will downlaoad a copy of the file in you system 
 
 ## Numbers and Strings
